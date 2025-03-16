@@ -20,3 +20,27 @@ int main() {
 
     return 0;
 }
+
+#include <stdio.h>
+ 
+int main(){
+    int população;
+    float Àrea;
+    float PIB;
+    int numero de pontos turistico;
+
+    printf("População:\n");
+    scanf("%d" %população);
+    
+
+
+
+
+
+
+
+
+
+
+}
+
