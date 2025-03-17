@@ -1,6 +1,7 @@
 #include <stdio.h>
  
 int main(){
+    printf("Cartas Super trunfo");
     int população;
     float Àrea;
     float PIB;
